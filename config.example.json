@@ -1,6 +1,6 @@
 {
   "agibot": {
-    "url": "wss://agentsdk.agibot.com/v1/agentsdk",
+    "url": "wss://open.agibot.com/api/V1/open-portal/app/wss/agent-sdk",
     "app_id": "app_xxx",
     "app_key": "ak_xxx",
     "app_secret": "sk_xxx_至少32字节"

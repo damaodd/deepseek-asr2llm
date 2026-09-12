@@ -1,6 +1,6 @@
 # deepseek-asr2llm
 
-基于 [LinkSoul Agent SDK for Go](https://github.com/agibot/linksoul-agentsdk) 的语音对话机器人示例：机器人通过 **asr2llm** 接入，将用户的语音转文字（ASR 文本）发送给 **DeepSeek** 大模型，再把流式回复推回机器人播放，实现真实的语音对话。
+基于 [LinkSoul Agent SDK for Go](https://github.com/damaodd/linksoul-agentsdk-go) 的语音对话机器人示例：机器人通过 **asr2llm** 接入，将用户的语音转文字（ASR 文本）发送给 **DeepSeek** 大模型，再把流式回复推回机器人播放，实现真实的语音对话。
 
 ## 功能
 

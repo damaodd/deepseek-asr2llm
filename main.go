@@ -42,8 +42,8 @@ import (
 	"strings"
 	"sync"
 
-	agentsdk "github.com/agibot/linksoul-agentsdk"
-	_ "github.com/agibot/linksoul-agentsdk/wsclient"
+	agentsdk "github.com/damaodd/linksoul-agentsdk-go"
+	_ "github.com/damaodd/linksoul-agentsdk-go/wsclient"
 )
 
 type authCb struct{}
