@@ -1,0 +1,16 @@
+{
+  "agibot": {
+    "url": "wss://agentsdk.agibot.com/v1/agentsdk",
+    "app_id": "app_xxx",
+    "app_key": "ak_xxx",
+    "app_secret": "sk_xxx_至少32字节"
+  },
+  "deepseek": {
+    "base_url": "https://api.deepseek.com",
+    "api_key": "sk-xxx",
+    "model": "deepseek-flash",
+    "system_prompt": "你是一个友好的语音助手，请用简短、口语化的中文回答。",
+    "max_history": 20,
+    "thinking": "disabled"
+  }
+}
